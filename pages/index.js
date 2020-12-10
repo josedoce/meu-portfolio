@@ -98,10 +98,10 @@ export default function Home(){
                     <div className={index.blocos3}>
                         
                         <div className={index.projetos}>
-                            <img className={index.img_projeto} src="/cara.svg"/>
+                            <img className={index.img_projeto} src="https://user-images.githubusercontent.com/66434808/101831525-caa30c80-3b14-11eb-8ec8-c74530d7f9a1.png"/>
                             <div className={index.projeto}>
-                                <h3 className={index.titulo}>projeto desconhecido</h3>
-                                <a className={index.vprojeto} href="">ver projeto</a>
+                                <h3 className={index.titulo}>Projeto doceblog </h3>
+                                <a className={index.vprojeto} href="https://doceblog.herokuapp.com">ver projeto</a>
                             </div>
                         </div>
 
