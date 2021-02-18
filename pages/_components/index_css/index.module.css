@@ -86,7 +86,6 @@
 }
 .dados:nth-child(3)>p{
     text-align: justify;
-    text-justify: inter-word;
 }
 @media (max-width: 767px){
     .blocos1{
